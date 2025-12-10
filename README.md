@@ -4,4 +4,4 @@ The main repository for the Sensing and Internet of Things module assessment wor
 
 
 ### About
-The main code for the ESP32 can be found here [SIoT_AQ_Project2](SIoT_AQ_Project2)
+The platform.io folder for the project and ESP32 code can be found here [SIoT_AQ_Project2](SIoT_AQ_Project2), with the main code in the [SRC folder](SRCfolder).
