@@ -1,6 +1,7 @@
 # SIoT-SleepAQ
 The main repository for the Sensing and Internet of Things module assessment work 25/26.
 
+<img width="1097" height="626" alt="ThingSpeak-Scriptable-View" src="https://github.com/user-attachments/assets/48fd422b-a09e-4ba0-b4eb-5e2e7afd2b13" />
 
 
 ### About
