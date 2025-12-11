@@ -7,3 +7,5 @@ The main repository for the Sensing and Internet of Things module assessment wor
 The platform.io folder for the project and ESP32 code can be found here [SIoT_AQ_Project2](SIoT_AQ_Project2), with the main.cpp in the [src folder](SIoT_AQ_Project2/src).
 
 To make the Scriptable iOS widgets, the script [AQ10](AQ10.js) was used.
+
+The ThingSpeak channel can also be viewed here: https://thingspeak.mathworks.com/channels/3175717
